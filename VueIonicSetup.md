@@ -7,7 +7,7 @@
 **Install Vue Syntax Highlighting via Package Control on Sublime Text** 
 https://medium.com/@kentaguilar/install-vue-syntax-highlighting-via-package-control-on-sublime-text-2-bfb977f444e7
 
-**Source of Blog [Ionic + Vue.js]**
+**Reference Code Snippets [Ionic + Vue.js]**
 1. https://www.youtube.com/watch?v=6CXtYSLbPaQ 
 
 2. https://www.youtube.com/watch?v=6H1wftPS0oo [ZipCode Search Example]
@@ -38,3 +38,4 @@ https://www.log2e.com/2019/02/create-a-simple-youtube-search-app-with-vue-js/
 **Extra Libraries**
 1. **Vuex** is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. 
 2. **Vuetify** is a Material Design component framework for Vue.js. It aims to provide all the tools necessary to create beautiful content rich applications
+3. 
