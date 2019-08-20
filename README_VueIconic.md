@@ -38,4 +38,5 @@ https://www.log2e.com/2019/02/create-a-simple-youtube-search-app-with-vue-js/
 **Extra Libraries**
 1. **Vuex** is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. 
 2. **Vuetify** is a Material Design component framework for Vue.js. It aims to provide all the tools necessary to create beautiful content rich applications
-3. 
+3. Chart.js Integrate for Insights/Analytics
+https://www.thepolyglotdeveloper.com/2018/01/use-chartjs-display-attractive-charts-vuejs-web-application/
