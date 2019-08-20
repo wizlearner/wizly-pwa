@@ -1,5 +1,5 @@
 **Base Setup**
-1. Create gmail id 'wiz.learner@gmail.com'                 - Google Youtube API & 
+1. Create gmail id 'wiz.learner@gmail.com'                 - Google Youtube API & Firebase
 2. Create a Facebook A/C based on wiz.learner@gmail.com    - Facebook Social Login
 3. Create a Github A/C based on wiz.learner@gmail.com      - Code backup and version control [Setup Document]
 
