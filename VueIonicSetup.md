@@ -9,7 +9,9 @@ https://medium.com/@kentaguilar/install-vue-syntax-highlighting-via-package-cont
 
 Source of Blog [Ionic + Vue.js]
 1. https://www.youtube.com/watch?v=6CXtYSLbPaQ 
-2. https://www.youtube.com/watch?v=6H1wftPS0oo
+2. https://www.youtube.com/watch?v=6H1wftPS0oo [ZipCode Search Example]
+3. https://www.vuemastery.com/conferences/vueconf-us-2018/ionic-and-vue-mike-hartington/ 
+4. https://www.youtube.com/watch?v=o7rb1S2Txfw [Ionic 4 + Vue Basics - Reddit Clone]
 
 Browser devtools extension for debugging Vue.js applications.
 https://github.com/vuejs/vue-devtools
