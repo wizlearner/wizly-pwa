@@ -1,3 +1,12 @@
+Base Setup
+1. Create gmail id 'wiz.learner@gmail.com'                 - Google Youtube API & 
+2. Create a Facebook A/C based on wiz.learner@gmail.com    - Facebook Social Login
+3. Create a Github A/C based on wiz.learner@gmail.com      - Code backup and version control [Setup Document]
+
+
+Install Vue Syntax Highlighting via Package Control on Sublime Text 
+https://medium.com/@kentaguilar/install-vue-syntax-highlighting-via-package-control-on-sublime-text-2-bfb977f444e7
+
 Source of Blog [Ionic + Vue.js]
 1. https://www.youtube.com/watch?v=6CXtYSLbPaQ 
 2. https://www.youtube.com/watch?v=6H1wftPS0oo
@@ -12,3 +21,9 @@ if you get the following warning "export ‘ICON_PATHS’ was not found in ‘io
 npm install ionicons@4.5.9-1 --save-dev
 
 
+Integrate Youtube API with Vue.js
+https://www.log2e.com/2019/02/create-a-simple-youtube-search-app-with-vue-js/
+
+
+Extra Libraries
+1. Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. 
