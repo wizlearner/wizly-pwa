@@ -12,6 +12,7 @@ Source of Blog [Ionic + Vue.js]
 2. https://www.youtube.com/watch?v=6H1wftPS0oo [ZipCode Search Example]
 3. https://www.vuemastery.com/conferences/vueconf-us-2018/ionic-and-vue-mike-hartington/ 
 4. https://www.youtube.com/watch?v=o7rb1S2Txfw [Ionic 4 + Vue Basics - Reddit Clone]
+5. https://moduscreate.com/blog/using-ionic-4-in-vue-applications-with-beep/ [Beep App Ionic + Vue.js]
 
 Browser devtools extension for debugging Vue.js applications.
 https://github.com/vuejs/vue-devtools
@@ -29,3 +30,4 @@ https://www.log2e.com/2019/02/create-a-simple-youtube-search-app-with-vue-js/
 
 Extra Libraries
 1. Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. 
+2. Vuetify is a Material Design component framework for Vue.js. It aims to provide all the tools necessary to create beautiful content rich applications
