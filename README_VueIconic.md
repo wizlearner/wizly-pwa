@@ -21,6 +21,13 @@ src code: https://github.com/drehimself/ionic-vue-example
 5. https://moduscreate.com/blog/using-ionic-4-in-vue-applications-with-beep/ [Beep App Ionic + Vue.js]
 src code: https://github.com/ModusCreateOrg/beep/tree/master/src/components
 
+**Other Ionic Vue Samples**
+https://github.com/aaronksaunders/ionic4-vue-tabs
+https://github.com/aaronksaunders/icon-vue
+https://github.com/aaronksaunders/ionic-vue-picker-sample
+https://github.com/aaronksaunders/vue-ionic-demo
+https://github.com/aaronksaunders/capacitor-vue-ionicv4-app
+
 **Browser devtools extension for debugging Vue.js applications.**
 https://github.com/vuejs/vue-devtools
 
