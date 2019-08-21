@@ -24,11 +24,16 @@ src code: https://github.com/ModusCreateOrg/beep/tree/master/src/components
 **Browser devtools extension for debugging Vue.js applications.**
 https://github.com/vuejs/vue-devtools
 
+
 **Commands to Setup [Ionic + Vue] **
-
-
 if you get the following warning "export ‘ICON_PATHS’ was not found in ‘ionicons/icons’'  this fixed it for me:  
 npm install ionicons@4.5.9-1 --save-dev
+
+
+**Vue.js + Capacitor + Ionic**
+1) https://www.smashingmagazine.com/2018/07/mobile-apps-capacitor-vue-js/
+2) https://github.com/aaronksaunders/capacitor-vue-ionicv4-app 
+3) https://capacitor.ionicframework.com/docs/pwa-elements/ (Camera working in PWA)
 
 
 **Integrate Youtube API with Vue.js **
