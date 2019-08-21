@@ -32,7 +32,10 @@ npm install ionicons@4.5.9-1 --save-dev
 
 **Vue.js + Capacitor + Ionic**
 1) https://www.smashingmagazine.com/2018/07/mobile-apps-capacitor-vue-js/
+Src Code: https://github.com/techiediaries/vue-capacitor-ionic-app/tree/master
+
 2) https://github.com/aaronksaunders/capacitor-vue-ionicv4-app 
+
 3) https://capacitor.ionicframework.com/docs/pwa-elements/ (Camera working in PWA)
 
 
@@ -43,5 +46,6 @@ https://www.log2e.com/2019/02/create-a-simple-youtube-search-app-with-vue-js/
 **Extra Libraries**
 1. **Vuex** is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion. 
 2. **Vuetify** is a Material Design component framework for Vue.js. It aims to provide all the tools necessary to create beautiful content rich applications
-3. Chart.js Integrate for Insights/Analytics
+3. **Chart.js** Integrate for Insights/Analytics
 https://www.thepolyglotdeveloper.com/2018/01/use-chartjs-display-attractive-charts-vuejs-web-application/
+4. 
