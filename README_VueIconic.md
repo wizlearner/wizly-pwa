@@ -45,6 +45,8 @@ Src Code: https://github.com/techiediaries/vue-capacitor-ionic-app/tree/master
 
 3) https://capacitor.ionicframework.com/docs/pwa-elements/ (Camera working in PWA)
 
+4) https://alligator.io/ionic/building-with-capacitor/
+
 
 **Integrate Youtube API with Vue.js **
 https://www.log2e.com/2019/02/create-a-simple-youtube-search-app-with-vue-js/
