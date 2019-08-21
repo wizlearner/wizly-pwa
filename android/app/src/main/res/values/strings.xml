@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">wizly-pwa</string>
+    <string name="title_activity_main">wizly-pwa</string>
+    <string name="package_name">com.wizlearner.wizly</string>
+    <string name="fileprovider_authority">com.wizlearner.wizly.fileprovider</string>
+    <string name="custom_url_scheme">com.wizlearner.wizly</string>
+</resources>

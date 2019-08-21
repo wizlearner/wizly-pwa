@@ -1,28 +1,36 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    
+    <ion-app>
+      
+      <home></home>
+      <menu-left></menu-left>
+      <camera-page></camera-page>
+      <router-view></router-view>
+       <ion-menu-controller></ion-menu-controller>
+    </ion-app>
+
+    
+   
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import Home from '@/Home'
+import CameraPage from '@/components/CameraPage'
+//import GeolocationPage from '@/components/GeolocationPage'
+import MenuLeft from '@/components/MenuLeft'
 
 export default {
-  name: 'app',
-  components: {
-    HelloWorld
+  name: 'App',
+  components : {Home, MenuLeft, CameraPage},
+  data () {
+    return {
+      items: [{id: 0, name: 'Ahmed'}, {id: 1, name: 'Naima'}]
+    }
+  },
+  methods: {
   }
 }
 </script>
-
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>

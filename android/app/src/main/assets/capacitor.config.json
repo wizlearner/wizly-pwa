@@ -1,0 +1,7 @@
+{
+  "appId": "com.wizlearner.wizly",
+  "appName": "wizly-pwa",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist"
+}
