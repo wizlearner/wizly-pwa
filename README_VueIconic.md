@@ -3,6 +3,7 @@
 2. Create a Facebook A/C based on wiz.learner@gmail.com    - Facebook Social Login
 3. Create a Github A/C based on wiz.learner@gmail.com      - Code backup and version control [Setup Document]
 
+https://alligator.io/ionic/ionic-4-vue-skeleton-text/
 
 **Install Vue Syntax Highlighting via Package Control on Sublime Text** 
 https://medium.com/@kentaguilar/install-vue-syntax-highlighting-via-package-control-on-sublime-text-2-bfb977f444e7
@@ -28,6 +29,7 @@ https://github.com/aaronksaunders/ionic-vue-picker-sample
 https://github.com/aaronksaunders/vue-ionic-demo
 https://github.com/aaronksaunders/capacitor-vue-ionicv4-app
 https://www.youtube.com/watch?v=k6LH1L61E0Q (Toast Bar - Alerts)
+https://developer.school/how-to-use-vue-js-with-ionic-4/ 
 
 **Browser devtools extension for debugging Vue.js applications.**
 https://github.com/vuejs/vue-devtools
@@ -59,4 +61,8 @@ https://vuex.vuejs.org/guide/
 2. **Vuetify** is a Material Design component framework for Vue.js. It aims to provide all the tools necessary to create beautiful content rich applications
 3. **Chart.js** Integrate for Insights/Analytics
 https://www.thepolyglotdeveloper.com/2018/01/use-chartjs-display-attractive-charts-vuejs-web-application/
+
+
+Left Menu
+https://codesandbox.io/s/ylyzzk3v1
 
