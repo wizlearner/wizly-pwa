@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # wizly-pwa
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# wizly
+>>>>>>> 64984c33aedf30e1acbce9a9790764ba50438649
