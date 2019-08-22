@@ -63,6 +63,7 @@ https://vuex.vuejs.org/guide/
 https://www.thepolyglotdeveloper.com/2018/01/use-chartjs-display-attractive-charts-vuejs-web-application/
 
 
-Left Menu
-https://codesandbox.io/s/ylyzzk3v1
+Code Snippets
+https://codesandbox.io/s/ylyzzk3v1 (Left Menu)
+https://github.com/bradtraversy/zip-info-pwa/tree/master/src (Zip Info thingy)
 
